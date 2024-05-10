@@ -10,9 +10,6 @@ Sou um jovem desenvolvedor animado com o curso e com paixão pela tecnologia. Em
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omarcomaciel&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcomaciel&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# teste
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcomaciel&layout=compact&theme=dracula)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omarcomaciel&limit=5&theme=dark&combine_all_yearly_contributions=true)
