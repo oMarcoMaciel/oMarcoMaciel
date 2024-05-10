@@ -11,7 +11,7 @@ Sou um jovem desenvolvedor animado com o curso e com paixão pela tecnologia. Em
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcomaciel&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # teste
-!TOP Linguagens
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcomaciel&layout=compact&theme=dracula)
 
 
 ### 🔝 Top Contributed Repo
