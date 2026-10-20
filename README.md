@@ -4,7 +4,7 @@
 
 ### Software Developer · Web & Android · Applied Research
 
-<a href="marcomaciel.site/">
+<a href="https://www.marcomaciel.site/">
   <img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-193E32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio — projects, experience and research" />
 </a>
 <a href="https://www.linkedin.com/in/omarcomaciel/">
